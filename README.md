@@ -199,6 +199,8 @@
 🌟 **Share knowledge to strengthen the magical community**  
 🛡️ **Protect the innocent from digital dark arts**  
 
+![Harry Potter Wand Magic](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZoazRxcHB0b2tnbjRpdjQ2am9uZ3Yxbndwa2J2dWhhYWZ4dWxwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8uk5BEvTsZ7Og/giphy.gif)
+
 </div>
 
 ---
