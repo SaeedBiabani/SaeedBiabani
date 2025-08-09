@@ -416,27 +416,7 @@ I'm always excited about challenging projects, especially those involving:
 <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="600"/>
 </div>
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=250&lines=🇮🇷+From+Ancient+Persia;Al-Khwarizmi+Legacy;Mathematical+Genius" alt="Persian Heritage" />
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=250&lines=🇩🇪+German+Excellence;Engineering+Precision;Innovation+Focus" alt="German Engineering" />
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=250&lines=🚀+Future+Builder;Python+AI+Security;Tomorrow's+Tech" alt="Future Technology" />
-</td>
-</tr>
-</table>
-</div>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=00FF41&style=for-the-badge&label=CULTURAL+BRIDGE+VISITORS)
 
