@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Magical Typing](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=35&duration=3000&pause=1000&color=FFD700&background=0D0D0D&center=true&vCenter=true&multiline=true&width=900&height=120&lines=PYTHON+MASTER+WIZARD;LINUX+SORCERER+%7C+CYBERSECURITY+SAGE;AI+ALCHEMIST+%7C+DIGITAL+PROBLEM+SOLVER;THINKER+%7C+RESEARCHER+%7C+TOOL+CREATOR)
+![Magical Typing](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&duration=3000&pause=1000&color=FFD700&background=0D0D0D&center=true&vCenter=true&multiline=true&width=800&height=80&lines=PYTHON+MASTER+WIZARD;LINUX+SORCERER+%7C+CYBERSECURITY+SAGE;AI+ALCHEMIST+%7C+PROBLEM+SOLVER;THINKER+%7C+RESEARCHER)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=200&section=header&text=SAEED%20BIABANI&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Master%20of%20Digital%20Magic%20%7C%20Python%20Wizard%20%7C%20Linux%20Sage&descAlignY=55&descSize=18"/>
 
