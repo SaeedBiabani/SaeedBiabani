@@ -20,6 +20,8 @@
 
 *"A wizard shall rise from the realm of code, wielding Python like a wand, commanding Linux like ancient magic, and protecting the digital world with cybersecurity spells most powerful."*
 
+![Magical Prophecy](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 **🌟 Welcome to my magical realm of code and cybersecurity! 🌟**
 
 </div>
