@@ -227,7 +227,7 @@
 *Ready to embark on magical coding adventures together?*
 
 [![GitHub](https://img.shields.io/badge/🏰_GitHub-Magical_Repository-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saeedbiabani)
-[![Email](https://img.shields.io/badge/📧_Owl_Post-Send_Message-9370DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/📧_Owl_Post-Send_Message-9370DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saeedbiabani22@gmail.com)
 
 ### 🌟 **Collaboration Interests**
 🐍 **Python Magic & Automation**  
@@ -250,7 +250,7 @@
 
 ![Magical Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=120&section=footer&animation=fadeIn)
 
-![Profile Views](https://komarev.com/ghpvc/?username=saeedbiabani&color=FFD700&style=for-the-badge&label=MAGICAL+VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=saeedbiabani&color=006400&style=for-the-badge&label=MAGICAL+VISITORS)
 
 **🎭 Master of Digital Magic | Python Wizard | Linux Sage | AI Alchemist | Cybersecurity Guardian**
 
