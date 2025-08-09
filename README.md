@@ -1,4 +1,4 @@
-# 🇮🇷 Saeed Biabani - Elite Python Architect & AI Security Researcher
+# Saeed Biabani - Elite Python Architect & AI Security Researcher
 
 <div align="center">
 
