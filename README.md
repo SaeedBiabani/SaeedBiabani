@@ -210,75 +210,77 @@ Combining the **mathematical genius of ancient Persia** with **German engineerin
 ## 🌟 **THE SAEED BIABANI ADVANTAGE**
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 </div>
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🇮🇷_Persian-Mathematical_Heritage-FFD700?style=for-the-badge&labelColor=1a1a1a"/>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🇮🇷_PERSIAN-Mathematical_Heritage-FFD700?style=for-the-badge&labelColor=1a1a1a&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZENzAwIi8+Cjwvc3ZnPgo="/>
 <br/>
-<sub><b>Algorithmic Thinking</b></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=200&lines=Ancient+Algorithms;Mathematical+Genius;Persian+Innovation" alt="Persian Heritage" />
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🇩🇪_German-Engineering_Precision-00FF41?style=for-the-badge&labelColor=1a1a1a"/>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🇩🇪_GERMAN-Engineering_Excellence-00FF41?style=for-the-badge&labelColor=1a1a1a"/>
 <br/>
-<sub><b>Quality & Efficiency</b></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=200&lines=Systematic+Precision;Quality+Focus;Engineering+Mind" alt="German Precision" />
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🐍_Python-Master_Level-3776AB?style=for-the-badge&labelColor=1a1a1a"/>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🐍_PYTHON-Master_Level-3776AB?style=for-the-badge&labelColor=1a1a1a"/>
 <br/>
-<sub><b>Web Apps to AI Models</b></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2000&pause=500&color=3776AB&center=true&vCenter=true&width=200&lines=Web+to+AI;Framework+Expert;Code+Artisan" alt="Python Master" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🐧_LINUX-System_Master-FCC624?style=for-the-badge&labelColor=1a1a1a"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2000&pause=500&color=FCC624&center=true&vCenter=true&width=200&lines=System+Architect;Server+Wizard;Terminal+Native" alt="Linux Expert" />
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🛢️_NoSQL-Database_Architect-47A248?style=for-the-badge&labelColor=1a1a1a"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2000&pause=500&color=47A248&center=true&vCenter=true&width=200&lines=Scalable+Design;Data+Solutions;Performance+Tuning" alt="NoSQL Specialist" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖_AI-Research_Pioneer-FF6F00?style=for-the-badge&labelColor=1a1a1a"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2000&pause=500&color=FF6F00&center=true&vCenter=true&width=200&lines=Neural+Networks;Deep+Learning;AI+Innovation" alt="AI Researcher" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔐_SECURITY-First_Mindset-DC143C?style=for-the-badge&labelColor=1a1a1a"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2000&pause=500&color=DC143C&center=true&vCenter=true&width=200&lines=Security+First;Threat+Analysis;Safe+Code" alt="Security Minded" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💻_HARDWARE-Tech_Enthusiast-00CED1?style=for-the-badge&labelColor=1a1a1a"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2000&pause=500&color=00CED1&center=true&vCenter=true&width=200&lines=Silicon+to+Software;Hardware+Hacker;Tech+Builder" alt="Hardware Enthusiast" />
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🐧_Linux-Expert_Level-FCC624?style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/🌐_CULTURAL-Bridge_Builder-9400D3?style=for-the-badge&labelColor=1a1a1a"/>
 <br/>
-<sub><b>System Architecture</b></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2000&pause=500&color=9400D3&center=true&vCenter=true&width=200&lines=East+meets+West;Cultural+Fusion;Global+Vision" alt="Cultural Bridge" />
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🛢️_NoSQL-Specialist-47A248?style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/🎯_RESEARCH-Always_Learning-FF1493?style=for-the-badge&labelColor=1a1a1a"/>
 <br/>
-<sub><b>Scalable Solutions</b></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2000&pause=500&color=FF1493&center=true&vCenter=true&width=200&lines=Never+Stop+Learning;Research+Mind;Innovation+Drive" alt="Research Focused" />
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🤖_AI-Researcher-FF6F00?style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/🔧_CREATOR-Custom_Solutions-32CD32?style=for-the-badge&labelColor=1a1a1a"/>
 <br/>
-<sub><b>ML & Deep Learning</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🔐_Security-First_Minded-DC143C?style=for-the-badge&labelColor=1a1a1a"/>
-<br/>
-<sub><b>Every Solution Secured</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/💻_Hardware-Enthusiast-00CED1?style=for-the-badge&labelColor=1a1a1a"/>
-<br/>
-<sub><b>Silicon to Software</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🌐_Cultural-Bridge-9400D3?style=for-the-badge&labelColor=1a1a1a"/>
-<br/>
-<sub><b>East meets West</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🎯_Research-Focused-FF1493?style=for-the-badge&labelColor=1a1a1a"/>
-<br/>
-<sub><b>Always Learning & Experimenting</b></sub>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🔧_Tool-Creator-32CD32?style=for-the-badge&labelColor=1a1a1a"/>
-<br/>
-<sub><b>Custom Complex Solutions</b></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=2000&pause=500&color=32CD32&center=true&vCenter=true&width=200&lines=Tool+Creator;Problem+Solver;Custom+Builder" alt="Tool Creator" />
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
 </div>
 
 ### 🔥 **Why I'm Different:**
@@ -411,34 +413,29 @@ I'm always excited about challenging projects, especially those involving:
 ### 🔥 **"From ancient Persia's algorithms to modern Germany's precision - crafting tomorrow's technology"**
 
 <div align="center">
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="600"/>
 </div>
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150"/>
 <br/>
-<b>🇮🇷 From the Land of Al-Khwarizmi & Omar Khayyam</b>
-<br/>
-<sub><i>Ancient Mathematical Wisdom</i></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=250&lines=🇮🇷+From+Ancient+Persia;Al-Khwarizmi+Legacy;Mathematical+Genius" alt="Persian Heritage" />
 </td>
-<td align="center" width="50%">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150"/>
 <br/>
-<b>🇩🇪 Enhanced by German Engineering Excellence</b>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=250&lines=🇩🇪+German+Excellence;Engineering+Precision;Innovation+Focus" alt="German Engineering" />
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150"/>
 <br/>
-<sub><i>Modern Precision & Innovation</i></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=250&lines=🚀+Future+Builder;Python+AI+Security;Tomorrow's+Tech" alt="Future Technology" />
 </td>
 </tr>
 </table>
-</div>
-
-<div align="center">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250"/>
-<br/>
-<b>🚀 Ready to Build the Future with Python, AI & Security</b>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=00FF41&style=for-the-badge&label=CULTURAL+BRIDGE+VISITORS)
