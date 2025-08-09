@@ -249,6 +249,8 @@
 
 ### 🌟 *"In a world full of muggles, be a wizard who codes"*
 
+![Harry Potter Magic](https://media.giphy.com/media/TJ9VmLgD4m3sGOy9An/giphy.gif)
+
 ![Magical Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=120&section=footer&animation=fadeIn)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saeedbiabani&color=FFD700&style=for-the-badge&label=MAGICAL+VISITORS)
