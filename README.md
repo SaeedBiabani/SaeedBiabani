@@ -138,13 +138,8 @@
 ## ✨ **MAGICAL GITHUB STATISTICS**
 
 <div align="center">
-
-![Magical Stats](https://github-readme-stats.vercel.app/api?username=saeedbiabani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=9370DB&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedbiabani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeedbiabani&theme=radical&hide_border=true&background=0D1117&stroke=FFD700&ring=9370DB&fire=FF6347&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=benjaminwhite&show_icons=true&theme=radical&bg_color=0D1421&title_color=00FF88&text_color=FFFFFF&icon_color=FF6B35" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminwhite&theme=radical&background=0D1421&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88" width="400">
 </div>
 
 ---
